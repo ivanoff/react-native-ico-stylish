@@ -1,4 +1,4 @@
-module.exports = `
+module.exports = {
 	'bikini-one-piece-swimwear': `<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="473.661px" height="473.662px" viewBox="0 0 473.661 473.662" style="enable-background:new 0 0 473.661 473.662;"
 	 xml:space="preserve">
@@ -5557,4 +5557,4 @@ module.exports = `
 	</g>
 </g>
 </svg>
-``
+`}
