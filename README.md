@@ -1,8 +1,8 @@
-# stylish Icons for React Native
+# Stylish Icons for React Native
 
 ### react-native-ico-stylish
 
-369 Icons
+200 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of stylish Icons](http://ico.simpleness.org/pack/stylish)
+- [List of Stylish Icons](http://ico.simpleness.org/pack/stylish)
 
 ## Installation
 
