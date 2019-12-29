@@ -1,12 +1,10 @@
 {
   "name": "react-native-ico-stylish",
-  "version": "1.5.2",
+  "version": "2.6.2",
   "description": "Stylish Icons for React Native",
   "main": "src/index.js",
-  "module": "src/index.js",
   "dependencies": {
-    "react": "16.9.0",
-    "react-native-svg": "^9.13.3"
+    "react-svg-main": "^0.4.3"
   },
   "repository": {
     "type": "git",
@@ -24,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/ivanoff/react-native-ico-stylish/issues"
   },
-  "homepage": "https://github.com/ivanoff/react-native-ico-stylish"
+  "homepage": "http://ico.simpleness.org/pack/stylish"
 }
