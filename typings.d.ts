@@ -1,5 +1,6 @@
 declare module 'react-native-ico-stylish' {
     import { ReactNode } from 'react';
+    import { SvgProps, AdditionalProps } from 'react-native-svg';
 
     type iconNames = 'bikini-one-piece-swimwear' |
       'bikini-shape-1' |
@@ -233,7 +234,7 @@ declare module 'react-native-ico-stylish' {
       badge?: number | string | badgeTypeObj;
     }
 
-    const Icon: (props: IconProps) => ReactNode;
+    const Icon: (props: IconProps & SvgProps & AdditionalProps) => ReactNode;
 
     export { iconNames };
     export default Icon;
